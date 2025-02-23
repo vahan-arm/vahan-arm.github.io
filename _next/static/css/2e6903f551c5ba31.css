@@ -1,0 +1,1 @@
+.contacts{display:flex;justify-content:space-around;text-align:center}.contacts .contact_block .contact_icon{color:#26444f;font-size:32px;margin-bottom:5px}.contacts .contact_block .contact_icon img{width:32px;height:25px}@media screen and (max-width:768px){.contacts{display:block}.contacts .contact_block{margin-top:30px}}
